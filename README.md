@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Rust.
+- 😁 I am a fresh graduate, currently seeking a suitable job.
+- 💖 I have a strong interest in using Rust as my primary programming language for development.
 
 <!--
 **BabaiLi/BabaiLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
