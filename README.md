@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😁 I am a fresh graduate, currently seeking a suitable job.
+- 😁 I am a fresh graduate.
 - 💖 I have a strong interest in using Rust as my primary programming language for development.
 
 <!--
